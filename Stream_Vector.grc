@@ -146,7 +146,7 @@ blocks:
     comment: ''
     num_inputs: '1'
     type: complex
-    vlen: '128'
+    vlen: '2'
   states:
     bus_sink: false
     bus_source: false
@@ -163,7 +163,7 @@ blocks:
     comment: ''
     num_inputs: '1'
     type: short
-    vlen: '128'
+    vlen: '2'
   states:
     bus_sink: false
     bus_source: false
@@ -180,7 +180,7 @@ blocks:
     comment: ''
     num_inputs: '1'
     type: float
-    vlen: '128'
+    vlen: '2'
   states:
     bus_sink: false
     bus_source: false
